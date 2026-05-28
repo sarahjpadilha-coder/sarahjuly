@@ -1,8 +1,8 @@
-# 👾 Sarah July
+# 👾 Sarah July 
 
 
 ```txt
-Inicializando sistema...
+ Inicializando sistema...
 
 [██████████████████] 100%
 
@@ -23,7 +23,7 @@ A humanidade inventou programação só para testar resistência emocional colet
 # 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,cs,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,cs,vscode,postgres" />
 </p>
 
 ```txt
@@ -31,6 +31,7 @@ Python  🐍
 HTML    🌐
 CSS     🎨
 C#      ⚡
+Postgres 🚀
 ```
 
 ```python
@@ -38,7 +39,8 @@ status = {
     "python": "fazendo automação e caos",
     "html": "montando estrutura",
     "css": "tentando alinhar div sem surtar",
-    "csharp": "sobrevivendo à orientação a objetos"
+    "csharp": "sobrevivendo à orientação a objetos",
+    "Postgres": "Aprendi só para passara na matéria"
 }
 ```
 

@@ -1,4 +1,5 @@
-# 👾 Sarah.exe
+# 👾 Sarah July
+
 
 ```txt
 Inicializando sistema...
@@ -6,7 +7,7 @@ Inicializando sistema...
 [██████████████████] 100%
 
 Nome: Sarah
-Classe: Estudante caótica
+Classe: Estudante de Desenvolvimento de Sistemas
 Tipo: Anti-social funcional
 Especialidade: Reclamar enquanto resolve problema
 ```
@@ -32,8 +33,8 @@ A humanidade inventou programação só para testar resistência emocional colet
 - 🎌 Anime
 - 💻 Programação
 - 🧠 Coisas nerds
-- ☕ Café emocional
-- 🎵 Música para fingir protagonismo
+- ☕ Café 
+- 🎵 Rock antigos
 - 💀 Humor duvidoso
 
 ---
@@ -42,10 +43,9 @@ A humanidade inventou programação só para testar resistência emocional colet
 
 | Status | Nível |
 |---|---|
-| Paciência | ░░░░░░░░░░ |
-| Ódio acumulado | ██████████ |
-| Criatividade | ████████░░ |
-| Sono | ░░░░░░░░░░ |
+| Criatividade | ██████████ |
+| teimosia | ████████░░ |
+| tempo | ░░░░░░░░░░ |
 | Sobrevivência | ██████░░░░ |
 
 ---
@@ -60,9 +60,9 @@ Nem os desenvolvedores da realidade quiseram corrigir.
 # 🎧 Tocando no fundo da mente
 
 ```txt
-🎵 Opening de anime triste aleatória
-🎵 Música de edit de personagem quebrado emocionalmente
-🎵 Lo-fi para estudar e sofrer silenciosamente
+🎵 November Rain - Guns N' Roses
+🎵 Psychosocial - Slipknot
+🎵 Fuel - Metalica
 ```
 
 ---
@@ -79,7 +79,7 @@ Civilizações inteiras foram sustentadas por essa filosofia extremamente irresp
 # 📌 Contato
 
 ```yaml
-Instagram: provavelmente vendo reels
+Instagram: Sarjlyc137 (provavelmente vendo reels)
 e-mail: sarahjuly@gmail.com
 Status: online sem responder ninguém
 ```
